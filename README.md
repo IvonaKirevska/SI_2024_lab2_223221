@@ -1,5 +1,9 @@
 Втора лабораториска вежба по Софтверско инженерство
+
 Ивона Киревска 223221
 
-Control Flow Graph:
-![Untitled Diagram](https://github.com/IvonaKirevska/SI_2024_lab2_223221/assets/139162357/0e99b328-0df2-48fb-949d-dc132895c32a)
+2.Control Flow Graph:
+![Untitled Diagram (1)](https://github.com/IvonaKirevska/SI_2024_lab2_223221/assets/139162357/feb86504-feb6-4b76-a320-32ac6e3e9b43)
+
+
+3.Цикломатската комплексност на кодот е 10, ја добив според формулата P+1 каде што Р е бројот на предикатни јазли. Во кодот Р=9, Р=9+1=10 цикломатска комплексност. 
